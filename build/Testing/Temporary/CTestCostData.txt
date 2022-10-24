@@ -1,0 +1,37 @@
+t_webget 8 0.172571
+t_byte_stream_construction 119 1.55848e-05
+t_byte_stream_one_write 119 1.2362e-05
+t_byte_stream_two_writes 119 1.1927e-05
+t_byte_stream_capacity 119 0.0036294
+t_byte_stream_many_writes 121 5.70927e-05
+t_address_dt 111 0.000595144
+t_parser_dt 125 1.39164e-05
+t_socket_dt 125 2.71837e-05
+t_strm_reassem_single 101 1.76563e-05
+t_strm_reassem_seq 109 1.86134e-05
+t_strm_reassem_dup 105 5.8492e-05
+t_strm_reassem_holes 104 2.12522e-05
+t_strm_reassem_many 110 0.00134016
+t_strm_reassem_overlapping 104 1.79019e-05
+t_strm_reassem_win 104 0.00147517
+t_strm_reassem_cap 100 0.000637986
+t_wrapping_ints_cmp 108 2.36816e-05
+t_wrapping_ints_unwrap 0 0
+t_wrapping_ints_wrap 102 1.76932e-05
+t_wrapping_ints_roundtrip 0 0
+t_recv_connect 84 2.18854e-05
+t_recv_transmit 96 0.00077419
+t_recv_window 96 2.01404e-05
+t_recv_reorder 96 2.10169e-05
+t_recv_close 84 2.10557e-05
+t_recv_special 84 2.20562e-05
+t_send_connect 64 2.88521e-05
+t_send_transmit 64 0.000981414
+t_send_retx 51 4.64102e-05
+t_send_window 24 0.00154195
+t_send_ack 22 0.000113507
+t_send_close 18 0.00010585
+t_send_extra 3 0.00127905
+---
+t_wrapping_ints_unwrap
+t_wrapping_ints_roundtrip
